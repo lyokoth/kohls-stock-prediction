@@ -1,5 +1,9 @@
 # kohls stock portfolio
 
+TODO: 
+Full analysis on kohl's prices 
+Customer Behavior Analysis 
+
 A stock price prediction analysis for Kohl's Corporation (KSS) using Machine Learning. 
 
 
@@ -15,3 +19,5 @@ The first graph shows the "Close" column which represents the close prices of th
 
 
 The next model is a scatterplot, predicting that prices have peaked for a while in March 2022, but have continued to decrease since then.
+
+
